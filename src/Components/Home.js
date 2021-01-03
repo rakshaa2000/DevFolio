@@ -9,7 +9,6 @@ const Home = () => {
                 <img src={logo} alt="Logo" width="400px" height="400px"></img>
                 <h3>One stop place to check all spheres</h3>
             </center>
-            
         </div>
     )
 }
